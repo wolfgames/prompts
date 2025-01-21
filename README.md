@@ -8,7 +8,7 @@ Welcome to Wolf Games' prompt engineering repository. This collection represents
 
 ## Key Features
 
-- 🎭 **Meta-Prompt Generator**: Create structured prompts that maintain consistency across your AI interactions
+- 🎭 **Meta-Prompt Generator**: [RIDES builder] (https://github.com/wolfgames/prompts/blob/main/RIDES%20builder) Create structured prompts that maintain consistency across your AI interactions
 - 📺 **Character-Driven Templates**: (soon) Leverage TV production techniques for more authentic AI personalities
 - 🔄 **Social Context Frameworks**: (soon) Templates that help AI understand and respond to social dynamics
 - 🎮 **Gaming-Specific Patterns**: (soon) Specialized prompts for interactive entertainment contexts
