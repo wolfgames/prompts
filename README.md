@@ -6,10 +6,18 @@
 
 Welcome to Wolf Games' prompt engineering repository. This collection represents our approach to creating AI interactions that feel natural, engaging, and deeply human. Drawing from our unique background in TV production, social media, and AI development, we've developed a methodology that prioritizes character-driven experiences while pushing technical boundaries.
 
+## Instructions
+
+When using these prompts:
+- Always read the full prompt before running - they're designed to work as complete units
+- Feel free to adjust identity variables and tone markers to match your needs
+- The schema sections are guidelines, not rigid rules - adapt them to your context
+- Keep the core structure (ROLE, INSTRUCTIONS, DATA, etc.) intact even as you customize
+
 ## Key Features
 
 - 🎭 **Meta-Prompt Generator**: [RIDES Builder](https://github.com/wolfgames/prompts/blob/main/RIDES%20builder) Create structured prompts that maintain consistency across your AI interactions
-- 💌 **LinkedIn Post Writer**: [LinkedIn Post Writer](https://github.com/wolfgames/prompts/blob/main/LinkedIn%20Post%20writer) Creates repetable engaing posts in your tone of voice
+- 💌 **LinkedIn Post Writer**: [LinkedIn Post Writer](https://github.com/wolfgames/prompts/blob/main/LinkedIn%20Post%20writer) Creates repetable engaging posts in your tone of voice
 - 📺 **Character-Driven Templates**: (soon) Leverage TV production techniques for more authentic AI personalities
 - 🔄 **Social Context Frameworks**: (soon) Templates that help AI understand and respond to social dynamics
 - 🎮 **Gaming-Specific Patterns**: (soon) Specialized prompts for interactive entertainment contexts
@@ -79,7 +87,6 @@ We believe in the power of community collaboration. If you have improvements or 
 2. Create your feature branch
 3. Submit a pull request with a clear description of your changes
 4. Include examples of how your changes improve AI interactions
-
 
 ## Contact
 
