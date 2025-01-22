@@ -102,8 +102,11 @@ We believe in the power of community collaboration. If you have improvements or 
 
 Special thanks to our team members who brought expertise from television production, social media, and AI development to create these templates.
 Claude wrote this READMNE for us. We ran the LinkedIn prompt with the task
->I started a github for our prompts to share how we do them at https://github.com/wolfgames/prompts. The first prompt is very meta: it's a prompt you can run to create a prompt. It's actually what I used to create the RIDES section of this very message
+>I started a github for our prompts to share how we do them at https://github.com/wolfgames/prompts. The first prompt is very meta: it's a prompt you can run to create a prompt. It's actually what I used to create the RIDES section of this very message.
+
+
 And then asked it to also write the README.
+
 ---
 
 *Built with ❤️ by Wolf Games - Bridging storytelling and technology*
