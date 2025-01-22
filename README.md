@@ -57,6 +57,11 @@ PROCEDURE GeneratePrompt(context) {
     }
 }
 ```
+it looks like code, but it's actually just plain language. The crazy thing is, there's already so much code in the LLM that it's able to generate based on these parameters - but still just stack one token after another!
+
+From Noah, our CTO: 
+> "our pseudocode format is based on early pascal, because our I'm old. but also because it's easily readable by anyone who knows basic coding patterns. you can substitute any language you're confident the LLM can understand. don't worry abourt syntax consistency or design patterns. think of it as whiteboarding patterns."
+
 
 ### Usage
 
