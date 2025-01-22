@@ -80,9 +80,6 @@ We believe in the power of community collaboration. If you have improvements or 
 3. Submit a pull request with a clear description of your changes
 4. Include examples of how your changes improve AI interactions
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
